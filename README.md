@@ -49,7 +49,7 @@ A modern blog platform built with a powerful tech stack for exceptional performa
 ## Tech Stack  
 - **Frontend**: Next.js, MUI, Tailwind CSS, Plate.js  
 - **Backend**: Fastify, PostgreSQL  
-- **Language**: TypeScript  
+- **Language**: TypeScript 
 
 ## Getting Started  
 
