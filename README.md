@@ -34,4 +34,30 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Blog-website
+# Modern Blog Platform 🌐  
+A modern blog platform built with a powerful tech stack for exceptional performance, scalability, and user experience.  
+
+## Features  
+- Frontend: Built with [Next.js](https://nextjs.org/), styled using [MUI](https://mui.com/) and [Tailwind CSS](https://tailwindcss.com/).  
+- Rich Text Editing: Integrated [Plate.js](https://platejs.dev/) for advanced content creation.  
+- Backend: Powered by [Fastify](https://www.fastify.io/) and [PostgreSQL](https://www.postgresql.org/).  
+- Type Safety: End-to-end type safety using [TypeScript](https://www.typescriptlang.org/).  
+- Blazing Fast: Optimized for SSR/ISR for performance.  
+- Responsive Design: Seamless experience across devices.  
+
+## Tech Stack  
+- Frontend: Next.js, MUI, Tailwind CSS, Plate.js  
+- Backend: Fastify, PostgreSQL  
+- Language: TypeScript  
+
+## Getting Started  
+
+### Prerequisites  
+Ensure you have the following installed:  
+- Node.js >= 16.x  
+- PostgreSQL  
+
+### Installation  
+
+1. Clone the repository:  
+   ```bash   
