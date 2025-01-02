@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 A modern blog platform built with a powerful tech stack for exceptional performance, scalability, and user experience.  
 
 ## Features  
-- Frontend: Built with [Next.js](https://nextjs.org/), styled using [MUI](https://mui.com/) and [Tailwind CSS](https://tailwindcss.com/).  
+- **Frontend**: Built with [Next.js](https://nextjs.org/), styled using [MUI](https://mui.com/) and [Tailwind CSS](https://tailwindcss.com/).  
 - Rich Text Editing: Integrated [Plate.js](https://platejs.dev/) for advanced content creation.  
 - Backend: Powered by [Fastify](https://www.fastify.io/) and [PostgreSQL](https://www.postgresql.org/).  
 - Type Safety: End-to-end type safety using [TypeScript](https://www.typescriptlang.org/).  
