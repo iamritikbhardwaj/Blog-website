@@ -43,8 +43,8 @@ A modern blog platform built with a powerful tech stack for exceptional performa
 - **Rich Text Editing**: Integrated [Plate.js](https://platejs.dev/) for advanced content creation.  
 - **Backend**: Powered by [Fastify](https://www.fastify.io/) and [PostgreSQL](https://www.postgresql.org/).  
 - **Type Safety**: End-to-end type safety using [TypeScript](https://www.typescriptlang.org/).  
-- Blazing Fast: Optimized for SSR/ISR for performance.  
-- Responsive Design: Seamless experience across devices.  
+- **Blazing Fast**: Optimized for SSR/ISR for performance.  
+- **Responsive Design**: Seamless experience across devices.  
 
 ## Tech Stack  
 - **Frontend**: Next.js, MUI, Tailwind CSS, Plate.js  
@@ -61,4 +61,5 @@ Ensure you have the following installed:
 ### Installation  
 
 1. Clone the repository:  
-   ```bash   
+   ```bash
+   https://github.com/iamritikbhardwaj/Blog-website.git
