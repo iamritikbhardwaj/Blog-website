@@ -40,16 +40,16 @@ A modern blog platform built with a powerful tech stack for exceptional performa
 
 ## Features  
 - **Frontend**: Built with [Next.js](https://nextjs.org/), styled using [MUI](https://mui.com/) and [Tailwind CSS](https://tailwindcss.com/).  
-- Rich Text Editing: Integrated [Plate.js](https://platejs.dev/) for advanced content creation.  
-- Backend: Powered by [Fastify](https://www.fastify.io/) and [PostgreSQL](https://www.postgresql.org/).  
-- Type Safety: End-to-end type safety using [TypeScript](https://www.typescriptlang.org/).  
+- **Rich Text Editing**: Integrated [Plate.js](https://platejs.dev/) for advanced content creation.  
+- **Backend**: Powered by [Fastify](https://www.fastify.io/) and [PostgreSQL](https://www.postgresql.org/).  
+- **Type Safety**: End-to-end type safety using [TypeScript](https://www.typescriptlang.org/).  
 - Blazing Fast: Optimized for SSR/ISR for performance.  
 - Responsive Design: Seamless experience across devices.  
 
 ## Tech Stack  
-- Frontend: Next.js, MUI, Tailwind CSS, Plate.js  
-- Backend: Fastify, PostgreSQL  
-- Language: TypeScript  
+- **Frontend**: Next.js, MUI, Tailwind CSS, Plate.js  
+- **Backend**: Fastify, PostgreSQL  
+- **Language**: TypeScript  
 
 ## Getting Started  
 
