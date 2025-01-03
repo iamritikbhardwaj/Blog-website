@@ -17,7 +17,7 @@ export default function Home() {
   ]
   return (
    <>
-   <div className="w-full h-screen p-10 overflow-hidden">
+   <div className="w-full h-screen p-10 bg-white dark:bg-neutral-800 text-slate-900 dark:text-white overflow-hidden">
     <div className="flex justify-between">
       <Typography variant='h4'>Blogs</Typography> 
       <IconButton component={Link} href="/create" sx={{color: "white"}}><AddIcon /></IconButton>
